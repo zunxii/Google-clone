@@ -1,0 +1,66 @@
+.header{
+    text-align: right;
+    display: flex;
+    margin-left: 1280px;
+
+}
+.att{
+    text-align: right;
+    margin: 10px;
+    margin-top: 15px;
+}
+.img1{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    align-items: right;
+    margin: 10px;
+    margin-top: 2px;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+    height: 100px;
+    width: 1264;
+    font-size: 100px;
+    margin-top: 130px;
+    margin-bottom: 45px;
+}
+.search{
+    color: white;
+    cursor: text;
+    height: 47.33px;
+    width: 950px;
+    border-radius: 50px;
+    border-width: 1px;
+    background-color: rgb(22, 22, 22);
+    margin-left: 250px;
+    padding-left: 40px;
+    background: url("https://freepngimg.com/download/microphone/70666-voice-microphone-google-search-logo-png-file-hd.png"), url("https://static.vecteezy.com/system/resources/previews/028/766/357/original/google-camera-lens-icon-symbol-free-png.png"), url("https://cdn.pixabay.com/photo/2017/01/13/01/22/magnifying-glass-1976105_1280.png");
+    background-size: 20px;
+    background-repeat: no-repeat, no-repeat , no-repeat;
+    background-position: 900px,940px, 15px;
+    font-size: 20px;
+    
+}
+.button{
+    margin-top: 40px;
+    margin-left: 600px;
+    border-radius: 10%;
+    
+}
+#search{
+    height: 30px;
+    width: 120px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgb(44, 44, 46);
+}
+#lucky{
+    height: 30px;
+    width: 120px;
+    color: white;
+    background-color: rgb(44, 44, 46);
+}
